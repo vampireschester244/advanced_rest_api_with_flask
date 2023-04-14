@@ -1,4 +1,4 @@
-# advanced_rest_api_with_flask
+# Advanced concepts of Flask REST API with Python
 Following topics are handled in the code with reference from teclado course:
 Topics covered
 
